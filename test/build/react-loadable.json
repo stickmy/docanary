@@ -1,0 +1,18 @@
+{
+  "undefined": [
+    {
+      "id": 1,
+      "name": null,
+      "file": "main.js",
+      "publicPath": "/main.js"
+    }
+  ],
+  "/Users/zisu/zspace/docanary/lib/core/clientEntry.js": [
+    {
+      "id": "../lib/core/clientEntry.js",
+      "name": "../lib/core/clientEntry.js",
+      "file": "main.js",
+      "publicPath": "/main.js"
+    }
+  ]
+}
