@@ -1,0 +1,30 @@
+.sidebar
+	position sticky
+	width 16.66%
+	padding 0 15px
+	top 20px
+	height calc(100vh - 20px)
+	float left
+
+:global(#navbar>ul)
+	list-style none
+	padding 0
+
+:global(#navbar li>a)
+	color #707070
+	padding 8px 15px
+	font-size 14px
+	border-left 1px solid #ccc
+	display block
+	&:hover
+		border-color var(--theme-color)
+
+:global(#navbar .active)
+	a
+		border-color var(--theme-color)
+		font-weight bold
+		color var(--theme-color)!important
+
+.nav
+	display block
+	position relative

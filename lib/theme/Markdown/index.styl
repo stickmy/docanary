@@ -1,0 +1,50 @@
+$codeBGColor = #282c34
+$borderColor = #eaecef
+
+a.header-anchor {
+	font-size .85em
+	float left
+	margin-left -.87em
+	padding-right .23em
+	margin-top .125em
+	opacity 0
+}
+
+h1, h2, h3, h4, h5, h6 {
+	cursor pointer
+	&:hover .header-anchor {
+		opacity: 1
+	}
+}
+
+h2 {
+	padding-bottom .3rem
+	border-bottom 1px solid $borderColor
+}
+
+div[class*="language-"] {
+	position relative
+	background-color $codeBGColor
+	.highlight-lines {
+		user-select none
+		padding-top 1.3rem
+		position absolute
+		top 0
+		left 0
+		width 100%
+		line-height 1.4
+		.highlighted {
+			background-color rgba(0,0,0,.66)
+		}
+	}
+	pre, pre[class*="language-"] {
+		background transparent
+		position relative
+		z-index 1
+		line-height 1.4
+		padding 1.25rem 1.5rem
+		margin .85rem 0
+		// background-color $codeBGColor
+		overflow auto
+	}
+}
