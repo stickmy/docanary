@@ -1,3 +1,6 @@
+@import './var.css'
+@import './global.css'
+
 $codeBGColor = #282c34
 $borderColor = #eaecef
 
@@ -10,15 +13,12 @@ a.header-anchor {
 	opacity 0
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6
 	cursor pointer
-	&:hover .header-anchor {
+	&:hover .header-anchor
 		opacity: 1
-	}
-}
 
 h2 {
-	padding-bottom .3rem
 	border-bottom 1px solid $borderColor
 }
 
