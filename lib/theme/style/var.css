@@ -1,7 +1,10 @@
 /* palette */
 
 html {
+	/* TODO: Set hsl with hexToHsl method. */
+	/* This is vey useful for adjusting the hover color automaticlly */
 	--theme-color: #373277;
 	--text-color: #444;
+	--link-color: #0072be;
 	--text-size: 16px;
 }

@@ -1,17 +1,18 @@
+@import '../style/config.styl';
+
 .layout
 	display flex
-	flex-direction row
+	flex-flow row nowrap
 	padding-right 15px
 	padding-left 15px
 	padding-top 25px
 	padding-bottom 40px
-	margin-right auto
-	margin-left auto
+	margin 0 auto
 
-@media (min-width: 992px)
+@media (min-width: $medium)
 	.layout
 		width 970px
 
-@media (min-width: 1200px)
+@media (min-width: $large)
 	.layout
 		width 1170px

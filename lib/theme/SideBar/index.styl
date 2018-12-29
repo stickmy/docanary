@@ -1,10 +1,22 @@
 .sidebar
 	position sticky
-	width 16.66%
+	flex 0 0 180px
 	padding 0 15px
 	top 20px
 	height calc(100vh - 20px)
-	float left
+
+.desc
+	&:focus
+		outline 0
+	font-size 14px
+	font-weight 600
+	padding-left 10px
+	margin-top 0
+	text-transform uppercase
+
+:global(.navbar)
+	overflow-y auto
+	max-height calc(100vh - 40px)
 
 :global(#navbar>ul)
 	list-style none

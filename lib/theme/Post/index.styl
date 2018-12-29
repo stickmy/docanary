@@ -1,4 +1,47 @@
 :global(.post)
-	flex-grow 1
+	// flex 1 auto
 	h1
 		margin-top 0
+
+.postHeaders
+	align-self flex-start
+	flex 0 0 175px
+
+.desc
+	&:focus
+		outline 0
+	font-size 14px
+	font-weight 600
+	padding-left 10px
+	margin-top 0
+	text-transform uppercase
+
+:global(.nav-affix)
+	position fixed
+	top 25px
+
+.nav>ul
+	list-style none
+	padding 0
+	font-size 12px
+	li
+		display block
+		position relative
+	a
+		display block
+		position relative
+		padding 5px 10px
+		color #707070
+		&:hover
+			color var(--text-color)
+			&:before
+				display block
+				font-weight bold
+		&:before
+			content '{'
+			color #bbb
+			position absolute
+			font-size 16px
+			top 1px
+			left 0
+			display none
