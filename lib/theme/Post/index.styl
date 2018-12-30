@@ -1,10 +1,11 @@
 :global(.post)
-	// flex 1 auto
 	h1
 		margin-top 0
 
 .postHeaders
-	align-self flex-start
+	position sticky
+	top 20px
+	height calc(100vh - 20px)
 	flex 0 0 175px
 
 .desc
@@ -45,3 +46,11 @@
 			top 1px
 			left 0
 			display none
+
+.nav>ul>.active
+	a
+		font-weight bold
+		color #0072be
+		&:before
+			color #0072be
+			display block
