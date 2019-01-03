@@ -3,6 +3,7 @@
 
 $codeBGColor = #282c34
 $borderColor = #eaecef
+$codeLang = js ts html md css sass scss less stylus go java c sh yaml py
 
 code, kbd
 	font-family source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace;
@@ -60,6 +61,13 @@ h2 {
 div[class*="language-"]
 	position relative
 	background-color $codeBGColor
+	&::before
+		position absolute
+		z-index 3
+		top 0.8em
+		right 1em
+		font-size 0.75rem
+		color rgba(255, 255, 255, 0.4)
 	.highlight-lines
 		user-select none
 		padding-top 1.3rem
@@ -79,8 +87,43 @@ div[class*="language-"]
 		margin .85rem 0
 		white-space pre-wrap
 		word-break break-word
-		// background-color $codeBGColor
 		overflow auto
 		code
 			color #fff
 			line-height 1.6
+
+for lang in $codeLang
+	div{'[class~="language-' + lang + '"]'}
+		&:before
+			content ('' + lang)
+
+div[class~="language-javascript"]
+	&:before
+		content "js"
+
+div[class~="language-typescript"]
+	&:before
+		content "ts"
+
+div[class~="language-markup"]
+	&:before
+		content "html"
+
+div[class~="language-markdown"]
+	&:before
+		content "md"
+
+div[class~="language-json"]:before
+	content "json"
+
+div[class~="language-ruby"]:before
+	content "rb"
+
+div[class~="language-python"]:before
+	content "py"
+
+div[class~="language-bash"]:before
+	content "sh"
+
+div[class~="language-php"]:before
+	content "php"
