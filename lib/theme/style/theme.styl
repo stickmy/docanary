@@ -1,9 +1,7 @@
 @import './var.css'
 @import './global.css'
-
-$codeBGColor = #282c34
-$borderColor = #eaecef
-$codeLang = js ts html md css sass scss less stylus go java c sh yaml py
+@import './config.styl'
+@import './code.styl'
 
 code, kbd
 	font-family source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace;
@@ -57,73 +55,3 @@ h1, h2, h3, h4, h5, h6
 h2 {
 	border-bottom 1px solid $borderColor
 }
-
-div[class*="language-"]
-	position relative
-	background-color $codeBGColor
-	&::before
-		position absolute
-		z-index 3
-		top 0.8em
-		right 1em
-		font-size 0.75rem
-		color rgba(255, 255, 255, 0.4)
-	.highlight-lines
-		user-select none
-		padding-top 1.3rem
-		position absolute
-		top 0
-		left 0
-		width 100%
-		line-height 1.4
-		.highlighted
-			background-color rgba(0,0,0,.66)
-	pre, pre[class*="language-"]
-		background transparent
-		position relative
-		z-index 1
-		line-height 1.4
-		padding 1.25rem 1.5rem
-		margin .85rem 0
-		white-space pre-wrap
-		word-break break-word
-		overflow auto
-		code
-			color #fff
-			line-height 1.6
-
-for lang in $codeLang
-	div{'[class~="language-' + lang + '"]'}
-		&:before
-			content ('' + lang)
-
-div[class~="language-javascript"]
-	&:before
-		content "js"
-
-div[class~="language-typescript"]
-	&:before
-		content "ts"
-
-div[class~="language-markup"]
-	&:before
-		content "html"
-
-div[class~="language-markdown"]
-	&:before
-		content "md"
-
-div[class~="language-json"]:before
-	content "json"
-
-div[class~="language-ruby"]:before
-	content "rb"
-
-div[class~="language-python"]:before
-	content "py"
-
-div[class~="language-bash"]:before
-	content "sh"
-
-div[class~="language-php"]:before
-	content "php"
