@@ -1,18 +1,25 @@
 @import '../style/config.styl';
 
+.page-layout
+	display flex
+	flex-flow row nowrap
+	padding-top 25px
+	padding-bottom 40px
+	margin 0 auto
+
 .layout
 	display flex
 	flex-flow row nowrap
-	padding-right 15px
-	padding-left 15px
+	padding-right var(--layout-padding-horizontal, 15px);
+	padding-left var(--layout-padding-horizontal, 15px);
 	padding-top 25px
 	padding-bottom 40px
 	margin 0 auto
 
 @media (min-width: $medium)
 	.layout
-		width 970px
+		width var(--layout-width-medium, 970px)
 
 @media (min-width: $large)
 	.layout
-		width 1170px
+		width var(--layout-width-large, 1170px)

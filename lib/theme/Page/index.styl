@@ -1,0 +1,65 @@
+.pageContainer
+	flex 1 auto
+
+.page
+	h1, h2
+		border none
+		margin-top 0
+
+.home
+	padding 2em 0
+	text-align center
+	h1, h2
+		color var(--theme-color)
+
+.home>h1
+	font-weight 500
+
+.home>h2
+	font-weight 400
+
+.feature:nth-child(odd)
+	background-color #f7f7f7
+
+.feature
+	padding 2em 10em
+	display flex
+	align-items center
+	p
+		font-weight 600
+		font-size 2rem
+
+.featureDoc
+	display flex
+	flex-direction column
+	max-width 560px
+
+.feature>img
+	max-width 200px
+	max-height 200px
+
+.alignLeft>img
+	margin-right 40px
+
+.alignRight>img
+	margin-left 40px
+
+.actionWrap
+	display inline-block
+	padding 0 4px
+
+.action
+	&:hover
+		color #fff
+		background var(--theme-color)
+	border 1px solid var(--theme-color)
+	border-radius 3px
+	color var(--theme-color)
+	display inline-block
+	font-size 14px
+	font-weight 400
+	line-height 1.2em
+	padding 10px
+	text-decoration none
+	text-transform uppercase
+	transition background .3s,color .3s

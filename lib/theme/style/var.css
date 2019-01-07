@@ -1,10 +1,15 @@
 /* palette, will reset by user's config */
 
-html {
+:root {
 	/* TODO: Set hsl with hexToHsl method. */
 	/* This is vey useful for adjusting the hover color automaticlly */
 	--theme-color: #373277;
 	--text-color: #444;
 	--link-color: #0072be;
 	--text-size: 16px;
+
+	/* internal */
+	--layout-width-large: 1170px;
+	--layout-width-medium: 970px;
+	--layout-padding-horizontal: 15px;
 }
