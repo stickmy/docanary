@@ -1,1 +1,3 @@
-## YOU NOT NEED PPT ANY MORE
+## Site generator
+
+> Powered by Markdown and React
