@@ -4,7 +4,7 @@ const chalk = require('chalk');
 const semver = require('semver');
 const path = require('path');
 const program = require('commander');
-const { start, build } = require('../lib');
+const { start, build, init } = require('../lib');
 
 function commandWrap(fn) {
 	return (...args) =>
@@ -16,6 +16,13 @@ function commandWrap(fn) {
 program
 	.version(require('../package.json').version)
 	.usage('<command> [options]');
+
+program
+	.command('init [siteDir]')
+	.description('Initialize site')
+	.action((projectDir = '.') => {
+		commandWrap(init)(path.resolve(projectDir));
+	});
 
 program
 	.command('start [siteDir]')
@@ -30,6 +37,6 @@ program
 	.description('Build site')
 	.action((siteDir = '.') => {
 		commandWrap(build)(path.resolve(siteDir), { skipImageCompression: false });
-	})
+	});
 
 program.parse(process.argv);
