@@ -4,7 +4,7 @@ const chalk = require('chalk');
 const semver = require('semver');
 const path = require('path');
 const program = require('commander');
-const { start } = require('../lib');
+const { start, build } = require('../lib');
 
 function commandWrap(fn) {
 	return (...args) =>
@@ -24,5 +24,12 @@ program
 	.action((siteDir = '.', { port }) => {
 		commandWrap(start)(path.resolve(siteDir), { port });
 	});
+
+program
+	.command('build [siteDir]')
+	.description('Build site')
+	.action((siteDir = '.') => {
+		commandWrap(build)(path.resolve(siteDir), { skipImageCompression: false });
+	})
 
 program.parse(process.argv);
