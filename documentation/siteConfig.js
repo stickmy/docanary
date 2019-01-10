@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Docanary',
-  baseUrl: '/',
+  baseUrl: 'https://wuwaki.me/docanary',
   docsUrl: 'docs',
   docsDir: 'docs',
   pagesDir: 'pages',
