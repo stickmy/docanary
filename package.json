@@ -4,7 +4,7 @@
   "description": "Make documentation with markdown",
   "main": "index.js",
   "scripts": {
-    "test": "echo test"
+    "doc": "node scripts/release-doc.js"
   },
   "repository": {
     "type": "git",
