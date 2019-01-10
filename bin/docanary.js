@@ -13,6 +13,7 @@ function commandWrap(fn) {
 			process.exitCode = 1;
 		});
 }
+
 program
 	.version(require('../package.json').version)
 	.usage('<command> [options]');
