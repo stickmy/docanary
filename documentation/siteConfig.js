@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Docanary',
-  baseUrl: '/docanary',
+  baseUrl: '/',
   docsUrl: 'docs',
   docsDir: 'docs',
   pagesDir: 'pages',
