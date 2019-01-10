@@ -4,7 +4,7 @@
       "id": 45,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/core/generated/componentsMap.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "@theme/Markdown": [
@@ -12,7 +12,7 @@
       "id": 49,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Markdown/index.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "deep-equal": [
@@ -20,7 +20,7 @@
       "id": 55,
       "name": "./node_modules/deep-equal/index.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "./lib/is_arguments.js": [
@@ -28,7 +28,7 @@
       "id": 57,
       "name": "./node_modules/deep-equal/lib/is_arguments.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "./lib/keys.js": [
@@ -36,7 +36,7 @@
       "id": 56,
       "name": "./node_modules/deep-equal/lib/keys.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "escape-html": [
@@ -44,7 +44,7 @@
       "id": 44,
       "name": "./node_modules/escape-html/index.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "exenv": [
@@ -52,7 +52,7 @@
       "id": 53,
       "name": "./node_modules/exenv/index.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "./cjs/react-dom-server.browser.production.min.js": [
@@ -60,7 +60,7 @@
       "id": 59,
       "name": "./node_modules/react-dom/cjs/react-dom-server.browser.production.min.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "react-dom/server": [
@@ -68,7 +68,7 @@
       "id": 48,
       "name": "./node_modules/react-dom/server.browser.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "react-helmet": [
@@ -76,7 +76,7 @@
       "id": 51,
       "name": "./node_modules/react-helmet/lib/Helmet.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "./HelmetConstants.js": [
@@ -84,7 +84,7 @@
       "id": 50,
       "name": "./node_modules/react-helmet/lib/HelmetConstants.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "./HelmetUtils.js": [
@@ -92,7 +92,7 @@
       "id": 58,
       "name": "./node_modules/react-helmet/lib/HelmetUtils.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "react-side-effect": [
@@ -100,7 +100,7 @@
       "id": 52,
       "name": "./node_modules/react-side-effect/lib/index.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "shallowequal": [
@@ -108,949 +108,949 @@
       "id": 54,
       "name": "./node_modules/shallowequal/index.js",
       "file": "0.997500ecaf53ca10f293.js",
-      "publicPath": "/0.997500ecaf53ca10f293.js"
+      "publicPath": "/docanary/0.997500ecaf53ca10f293.js"
     }
   ],
   "undefined": [
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 24,
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": 24,
       "name": null,
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": "",
       "name": null,
       "file": "2.66da664752b11804e690.css",
-      "publicPath": "/2.66da664752b11804e690.css"
+      "publicPath": "/docanary/2.66da664752b11804e690.css"
     },
     {
       "id": "",
       "name": null,
       "file": "2.66da664752b11804e690.css",
-      "publicPath": "/2.66da664752b11804e690.css"
+      "publicPath": "/docanary/2.66da664752b11804e690.css"
     },
     {
       "id": "",
       "name": null,
       "file": "2.66da664752b11804e690.js",
-      "publicPath": "/2.66da664752b11804e690.js"
+      "publicPath": "/docanary/2.66da664752b11804e690.js"
     },
     {
       "id": "",
       "name": null,
       "file": "2.66da664752b11804e690.js",
-      "publicPath": "/2.66da664752b11804e690.js"
+      "publicPath": "/docanary/2.66da664752b11804e690.js"
     },
     {
       "id": "",
       "name": null,
       "file": "3.46dab23498ed9c442d05.css",
-      "publicPath": "/3.46dab23498ed9c442d05.css"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.css"
     },
     {
       "id": "",
       "name": null,
       "file": "3.46dab23498ed9c442d05.css",
-      "publicPath": "/3.46dab23498ed9c442d05.css"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.css"
     },
     {
       "id": "",
       "name": null,
       "file": "3.46dab23498ed9c442d05.js",
-      "publicPath": "/3.46dab23498ed9c442d05.js"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.js"
     },
     {
       "id": "",
       "name": null,
       "file": "3.46dab23498ed9c442d05.js",
-      "publicPath": "/3.46dab23498ed9c442d05.js"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "4.87aa2c600c43345ba1c4.css",
-      "publicPath": "/4.87aa2c600c43345ba1c4.css"
+      "file": "4.3dbbd1ed205795f7485d.css",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "4.87aa2c600c43345ba1c4.css",
-      "publicPath": "/4.87aa2c600c43345ba1c4.css"
+      "file": "4.3dbbd1ed205795f7485d.css",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "4.87aa2c600c43345ba1c4.js",
-      "publicPath": "/4.87aa2c600c43345ba1c4.js"
+      "file": "4.3dbbd1ed205795f7485d.js",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "4.87aa2c600c43345ba1c4.js",
-      "publicPath": "/4.87aa2c600c43345ba1c4.js"
+      "file": "4.3dbbd1ed205795f7485d.js",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "5.9d243f92792c529556ee.css",
-      "publicPath": "/5.9d243f92792c529556ee.css"
+      "file": "5.25125a41b0e5559a8bfd.css",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "5.9d243f92792c529556ee.css",
-      "publicPath": "/5.9d243f92792c529556ee.css"
+      "file": "5.25125a41b0e5559a8bfd.css",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "5.9d243f92792c529556ee.js",
-      "publicPath": "/5.9d243f92792c529556ee.js"
+      "file": "5.25125a41b0e5559a8bfd.js",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "5.9d243f92792c529556ee.js",
-      "publicPath": "/5.9d243f92792c529556ee.js"
+      "file": "5.25125a41b0e5559a8bfd.js",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "6.54851ce067b27fc046ff.css",
-      "publicPath": "/6.54851ce067b27fc046ff.css"
+      "file": "6.67a23e7cb61abe83fd60.css",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "6.54851ce067b27fc046ff.css",
-      "publicPath": "/6.54851ce067b27fc046ff.css"
+      "file": "6.67a23e7cb61abe83fd60.css",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.css"
     },
     {
       "id": "",
       "name": null,
-      "file": "6.54851ce067b27fc046ff.js",
-      "publicPath": "/6.54851ce067b27fc046ff.js"
+      "file": "6.67a23e7cb61abe83fd60.js",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.js"
     },
     {
       "id": "",
       "name": null,
-      "file": "6.54851ce067b27fc046ff.js",
-      "publicPath": "/6.54851ce067b27fc046ff.js"
-    },
-    {
-      "id": "",
-      "name": null,
-      "file": "7.9461e4966696d705fa62.css",
-      "publicPath": "/7.9461e4966696d705fa62.css"
+      "file": "6.67a23e7cb61abe83fd60.js",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.js"
     },
     {
       "id": "",
       "name": null,
       "file": "7.9461e4966696d705fa62.css",
-      "publicPath": "/7.9461e4966696d705fa62.css"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.css"
+    },
+    {
+      "id": "",
+      "name": null,
+      "file": "7.9461e4966696d705fa62.css",
+      "publicPath": "/docanary/7.9461e4966696d705fa62.css"
     },
     {
       "id": "",
       "name": null,
       "file": "7.9461e4966696d705fa62.js",
-      "publicPath": "/7.9461e4966696d705fa62.js"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.js"
     },
     {
       "id": "",
       "name": null,
       "file": "7.9461e4966696d705fa62.js",
-      "publicPath": "/7.9461e4966696d705fa62.js"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.js"
     },
     {
       "id": "",
       "name": null,
       "file": "8.28e7d328835603c3cf7f.css",
-      "publicPath": "/8.28e7d328835603c3cf7f.css"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.css"
     },
     {
       "id": "",
       "name": null,
       "file": "8.28e7d328835603c3cf7f.css",
-      "publicPath": "/8.28e7d328835603c3cf7f.css"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.css"
     },
     {
       "id": "",
       "name": null,
       "file": "8.28e7d328835603c3cf7f.js",
-      "publicPath": "/8.28e7d328835603c3cf7f.js"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.js"
     },
     {
       "id": "",
       "name": null,
       "file": "8.28e7d328835603c3cf7f.js",
-      "publicPath": "/8.28e7d328835603c3cf7f.js"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.js"
     }
   ],
   "react": [
     {
       "id": 0,
       "name": "./node_modules/react/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 0,
       "name": "./node_modules/react/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "prop-types": [
     {
       "id": 1,
       "name": "./node_modules/prop-types/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 1,
       "name": "./node_modules/prop-types/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "warning": [
     {
       "id": 2,
       "name": "./node_modules/warning/warning.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 2,
       "name": "./node_modules/warning/warning.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "invariant": [
     {
       "id": 3,
       "name": "./node_modules/invariant/browser.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 3,
       "name": "./node_modules/invariant/browser.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "./index.styl?module": [
     {
       "id": 4,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Page/index.styl?module",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 7,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Post/index.styl?module",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 9,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Navbar/index.styl?module",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 12,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/SideBar/index.styl?module",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 13,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Footer/index.styl?module",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 22,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Doc/index.styl?module",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 4,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Page/index.styl?module",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": 7,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Post/index.styl?module",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": 9,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Navbar/index.styl?module",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": 12,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/SideBar/index.styl?module",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": 13,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Footer/index.styl?module",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": 22,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Doc/index.styl?module",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
       "file": "2.66da664752b11804e690.css",
-      "publicPath": "/2.66da664752b11804e690.css"
+      "publicPath": "/docanary/2.66da664752b11804e690.css"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
       "file": "2.66da664752b11804e690.css",
-      "publicPath": "/2.66da664752b11804e690.css"
+      "publicPath": "/docanary/2.66da664752b11804e690.css"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
       "file": "2.66da664752b11804e690.js",
-      "publicPath": "/2.66da664752b11804e690.js"
+      "publicPath": "/docanary/2.66da664752b11804e690.js"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
       "file": "2.66da664752b11804e690.js",
-      "publicPath": "/2.66da664752b11804e690.js"
+      "publicPath": "/docanary/2.66da664752b11804e690.js"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
       "file": "3.46dab23498ed9c442d05.css",
-      "publicPath": "/3.46dab23498ed9c442d05.css"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.css"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
       "file": "3.46dab23498ed9c442d05.css",
-      "publicPath": "/3.46dab23498ed9c442d05.css"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.css"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
       "file": "3.46dab23498ed9c442d05.js",
-      "publicPath": "/3.46dab23498ed9c442d05.js"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.js"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
       "file": "3.46dab23498ed9c442d05.js",
-      "publicPath": "/3.46dab23498ed9c442d05.js"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.js"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
-      "file": "4.87aa2c600c43345ba1c4.css",
-      "publicPath": "/4.87aa2c600c43345ba1c4.css"
+      "file": "4.3dbbd1ed205795f7485d.css",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.css"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
-      "file": "4.87aa2c600c43345ba1c4.css",
-      "publicPath": "/4.87aa2c600c43345ba1c4.css"
+      "file": "4.3dbbd1ed205795f7485d.css",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.css"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
-      "file": "4.87aa2c600c43345ba1c4.js",
-      "publicPath": "/4.87aa2c600c43345ba1c4.js"
+      "file": "4.3dbbd1ed205795f7485d.js",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.js"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
-      "file": "4.87aa2c600c43345ba1c4.js",
-      "publicPath": "/4.87aa2c600c43345ba1c4.js"
+      "file": "4.3dbbd1ed205795f7485d.js",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.js"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
-      "file": "5.9d243f92792c529556ee.css",
-      "publicPath": "/5.9d243f92792c529556ee.css"
+      "file": "5.25125a41b0e5559a8bfd.css",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.css"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
-      "file": "5.9d243f92792c529556ee.css",
-      "publicPath": "/5.9d243f92792c529556ee.css"
+      "file": "5.25125a41b0e5559a8bfd.css",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.css"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
-      "file": "5.9d243f92792c529556ee.js",
-      "publicPath": "/5.9d243f92792c529556ee.js"
+      "file": "5.25125a41b0e5559a8bfd.js",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.js"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
-      "file": "5.9d243f92792c529556ee.js",
-      "publicPath": "/5.9d243f92792c529556ee.js"
+      "file": "5.25125a41b0e5559a8bfd.js",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.js"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
-      "file": "6.54851ce067b27fc046ff.css",
-      "publicPath": "/6.54851ce067b27fc046ff.css"
+      "file": "6.67a23e7cb61abe83fd60.css",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.css"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
-      "file": "6.54851ce067b27fc046ff.css",
-      "publicPath": "/6.54851ce067b27fc046ff.css"
+      "file": "6.67a23e7cb61abe83fd60.css",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.css"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
-      "file": "6.54851ce067b27fc046ff.js",
-      "publicPath": "/6.54851ce067b27fc046ff.js"
+      "file": "6.67a23e7cb61abe83fd60.js",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.js"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
-      "file": "6.54851ce067b27fc046ff.js",
-      "publicPath": "/6.54851ce067b27fc046ff.js"
+      "file": "6.67a23e7cb61abe83fd60.js",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.js"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
       "file": "7.9461e4966696d705fa62.css",
-      "publicPath": "/7.9461e4966696d705fa62.css"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.css"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
       "file": "7.9461e4966696d705fa62.css",
-      "publicPath": "/7.9461e4966696d705fa62.css"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.css"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
       "file": "7.9461e4966696d705fa62.js",
-      "publicPath": "/7.9461e4966696d705fa62.js"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.js"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
       "file": "7.9461e4966696d705fa62.js",
-      "publicPath": "/7.9461e4966696d705fa62.js"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.js"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
       "file": "8.28e7d328835603c3cf7f.css",
-      "publicPath": "/8.28e7d328835603c3cf7f.css"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.css"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
       "file": "8.28e7d328835603c3cf7f.css",
-      "publicPath": "/8.28e7d328835603c3cf7f.css"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.css"
     },
     {
       "id": 42,
       "name": "./components/AlphaTag/index.styl?module",
       "file": "8.28e7d328835603c3cf7f.js",
-      "publicPath": "/8.28e7d328835603c3cf7f.js"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.js"
     },
     {
       "id": 43,
       "name": "./components/TodoTag/index.styl?module",
       "file": "8.28e7d328835603c3cf7f.js",
-      "publicPath": "/8.28e7d328835603c3cf7f.js"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.js"
     }
   ],
   "classnames": [
     {
       "id": 5,
       "name": "./node_modules/classnames/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 5,
       "name": "./node_modules/classnames/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "react-loadable": [
     {
       "id": 6,
       "name": "./node_modules/react-loadable/lib/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 6,
       "name": "./node_modules/react-loadable/lib/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "path-to-regexp": [
     {
       "id": 10,
       "name": "./node_modules/path-to-regexp/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 10,
       "name": "./node_modules/path-to-regexp/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "react-router/matchPath": [
     {
       "id": 11,
       "name": "./node_modules/react-router/matchPath.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 11,
       "name": "./node_modules/react-router/matchPath.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "react-dom": [
     {
       "id": 14,
       "name": "./node_modules/react-dom/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 14,
       "name": "./node_modules/react-dom/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "object-assign": [
     {
       "id": 15,
       "name": "./node_modules/object-assign/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 15,
       "name": "./node_modules/object-assign/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "../style/theme.styl": [
     {
       "id": 16,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/style/theme.styl",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 16,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/style/theme.styl",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "./index.styl": [
     {
       "id": 17,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Layout/index.styl",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 32,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/BackToTop/index.styl",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 33,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/NotFound/index.styl",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 17,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/Layout/index.styl",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": 32,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/BackToTop/index.styl",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     },
     {
       "id": 33,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/theme/NotFound/index.styl",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "react-router/Router": [
     {
       "id": 18,
       "name": "./node_modules/react-router/Router.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 18,
       "name": "./node_modules/react-router/Router.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "react-router/Switch": [
     {
       "id": 19,
       "name": "./node_modules/react-router/Switch.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 19,
       "name": "./node_modules/react-router/Switch.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "react-router/Route": [
     {
       "id": 20,
       "name": "./node_modules/react-router/Route.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 20,
       "name": "./node_modules/react-router/Route.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "hoist-non-react-statics": [
     {
       "id": 21,
       "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 21,
       "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "./../../../../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/node_modules/webpack/buildin/global.js": [
     {
       "id": 23,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/node_modules/webpack/buildin/global.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 23,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/node_modules/webpack/buildin/global.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "./cjs/react.production.min.js": [
     {
       "id": 25,
       "name": "./node_modules/react/cjs/react.production.min.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 25,
       "name": "./node_modules/react/cjs/react.production.min.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "./cjs/react-dom.production.min.js": [
     {
       "id": 26,
       "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 26,
       "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "scheduler": [
     {
       "id": 27,
       "name": "./node_modules/scheduler/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 27,
       "name": "./node_modules/scheduler/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "./cjs/scheduler.production.min.js": [
     {
       "id": 28,
       "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 28,
       "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "./factoryWithThrowingShims": [
     {
       "id": 29,
       "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 29,
       "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "./lib/ReactPropTypesSecret": [
     {
       "id": 30,
       "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 30,
       "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "isarray": [
     {
       "id": 31,
       "name": "./node_modules/isarray/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 31,
       "name": "./node_modules/isarray/index.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "/Users/zisu/.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/core/clientEntry.js": [
     {
       "id": 34,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/core/clientEntry.js",
-      "file": "main.dab2af2373e6d74dc4ca.css",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.css"
+      "file": "main.6bc6ac1d2cf2cb9609af.css",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.css"
     },
     {
       "id": 34,
       "name": "../../../.nvm/versions/node/v10.11.0/lib/node_modules/docanary/lib/core/clientEntry.js",
-      "file": "main.dab2af2373e6d74dc4ca.js",
-      "publicPath": "/main.dab2af2373e6d74dc4ca.js"
+      "file": "main.6bc6ac1d2cf2cb9609af.js",
+      "publicPath": "/docanary/main.6bc6ac1d2cf2cb9609af.js"
     }
   ],
   "@site/components/AlphaTag/index.js": [
@@ -1058,85 +1058,85 @@
       "id": 46,
       "name": "./components/AlphaTag/index.js",
       "file": "2.66da664752b11804e690.css",
-      "publicPath": "/2.66da664752b11804e690.css"
+      "publicPath": "/docanary/2.66da664752b11804e690.css"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
       "file": "2.66da664752b11804e690.js",
-      "publicPath": "/2.66da664752b11804e690.js"
+      "publicPath": "/docanary/2.66da664752b11804e690.js"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
       "file": "3.46dab23498ed9c442d05.css",
-      "publicPath": "/3.46dab23498ed9c442d05.css"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.css"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
       "file": "3.46dab23498ed9c442d05.js",
-      "publicPath": "/3.46dab23498ed9c442d05.js"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.js"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
-      "file": "4.87aa2c600c43345ba1c4.css",
-      "publicPath": "/4.87aa2c600c43345ba1c4.css"
+      "file": "4.3dbbd1ed205795f7485d.css",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.css"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
-      "file": "4.87aa2c600c43345ba1c4.js",
-      "publicPath": "/4.87aa2c600c43345ba1c4.js"
+      "file": "4.3dbbd1ed205795f7485d.js",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.js"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
-      "file": "5.9d243f92792c529556ee.css",
-      "publicPath": "/5.9d243f92792c529556ee.css"
+      "file": "5.25125a41b0e5559a8bfd.css",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.css"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
-      "file": "5.9d243f92792c529556ee.js",
-      "publicPath": "/5.9d243f92792c529556ee.js"
+      "file": "5.25125a41b0e5559a8bfd.js",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.js"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
-      "file": "6.54851ce067b27fc046ff.css",
-      "publicPath": "/6.54851ce067b27fc046ff.css"
+      "file": "6.67a23e7cb61abe83fd60.css",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.css"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
-      "file": "6.54851ce067b27fc046ff.js",
-      "publicPath": "/6.54851ce067b27fc046ff.js"
+      "file": "6.67a23e7cb61abe83fd60.js",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.js"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
       "file": "7.9461e4966696d705fa62.css",
-      "publicPath": "/7.9461e4966696d705fa62.css"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.css"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
       "file": "7.9461e4966696d705fa62.js",
-      "publicPath": "/7.9461e4966696d705fa62.js"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.js"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
       "file": "8.28e7d328835603c3cf7f.css",
-      "publicPath": "/8.28e7d328835603c3cf7f.css"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.css"
     },
     {
       "id": 46,
       "name": "./components/AlphaTag/index.js",
       "file": "8.28e7d328835603c3cf7f.js",
-      "publicPath": "/8.28e7d328835603c3cf7f.js"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.js"
     }
   ],
   "@site/components/TodoTag/index.js": [
@@ -1144,85 +1144,85 @@
       "id": 47,
       "name": "./components/TodoTag/index.js",
       "file": "2.66da664752b11804e690.css",
-      "publicPath": "/2.66da664752b11804e690.css"
+      "publicPath": "/docanary/2.66da664752b11804e690.css"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
       "file": "2.66da664752b11804e690.js",
-      "publicPath": "/2.66da664752b11804e690.js"
+      "publicPath": "/docanary/2.66da664752b11804e690.js"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
       "file": "3.46dab23498ed9c442d05.css",
-      "publicPath": "/3.46dab23498ed9c442d05.css"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.css"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
       "file": "3.46dab23498ed9c442d05.js",
-      "publicPath": "/3.46dab23498ed9c442d05.js"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.js"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
-      "file": "4.87aa2c600c43345ba1c4.css",
-      "publicPath": "/4.87aa2c600c43345ba1c4.css"
+      "file": "4.3dbbd1ed205795f7485d.css",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.css"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
-      "file": "4.87aa2c600c43345ba1c4.js",
-      "publicPath": "/4.87aa2c600c43345ba1c4.js"
+      "file": "4.3dbbd1ed205795f7485d.js",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.js"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
-      "file": "5.9d243f92792c529556ee.css",
-      "publicPath": "/5.9d243f92792c529556ee.css"
+      "file": "5.25125a41b0e5559a8bfd.css",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.css"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
-      "file": "5.9d243f92792c529556ee.js",
-      "publicPath": "/5.9d243f92792c529556ee.js"
+      "file": "5.25125a41b0e5559a8bfd.js",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.js"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
-      "file": "6.54851ce067b27fc046ff.css",
-      "publicPath": "/6.54851ce067b27fc046ff.css"
+      "file": "6.67a23e7cb61abe83fd60.css",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.css"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
-      "file": "6.54851ce067b27fc046ff.js",
-      "publicPath": "/6.54851ce067b27fc046ff.js"
+      "file": "6.67a23e7cb61abe83fd60.js",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.js"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
       "file": "7.9461e4966696d705fa62.css",
-      "publicPath": "/7.9461e4966696d705fa62.css"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.css"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
       "file": "7.9461e4966696d705fa62.js",
-      "publicPath": "/7.9461e4966696d705fa62.js"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.js"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
       "file": "8.28e7d328835603c3cf7f.css",
-      "publicPath": "/8.28e7d328835603c3cf7f.css"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.css"
     },
     {
       "id": 47,
       "name": "./components/TodoTag/index.js",
       "file": "8.28e7d328835603c3cf7f.js",
-      "publicPath": "/8.28e7d328835603c3cf7f.js"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.js"
     }
   ],
   "/Users/zisu/zspace/docanary/documentation/docs/add-doc.md": [
@@ -1230,13 +1230,13 @@
       "id": 35,
       "name": "./docs/add-doc.md",
       "file": "2.66da664752b11804e690.css",
-      "publicPath": "/2.66da664752b11804e690.css"
+      "publicPath": "/docanary/2.66da664752b11804e690.css"
     },
     {
       "id": 35,
       "name": "./docs/add-doc.md",
       "file": "2.66da664752b11804e690.js",
-      "publicPath": "/2.66da664752b11804e690.js"
+      "publicPath": "/docanary/2.66da664752b11804e690.js"
     }
   ],
   "/Users/zisu/zspace/docanary/documentation/docs/build.md": [
@@ -1244,55 +1244,55 @@
       "id": 36,
       "name": "./docs/build.md",
       "file": "3.46dab23498ed9c442d05.css",
-      "publicPath": "/3.46dab23498ed9c442d05.css"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.css"
     },
     {
       "id": 36,
       "name": "./docs/build.md",
       "file": "3.46dab23498ed9c442d05.js",
-      "publicPath": "/3.46dab23498ed9c442d05.js"
+      "publicPath": "/docanary/3.46dab23498ed9c442d05.js"
     }
   ],
   "/Users/zisu/zspace/docanary/documentation/docs/deploy.md": [
     {
-      "id": 38,
+      "id": 37,
       "name": "./docs/deploy.md",
-      "file": "4.87aa2c600c43345ba1c4.css",
-      "publicPath": "/4.87aa2c600c43345ba1c4.css"
+      "file": "4.3dbbd1ed205795f7485d.css",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.css"
     },
     {
-      "id": 38,
+      "id": 37,
       "name": "./docs/deploy.md",
-      "file": "4.87aa2c600c43345ba1c4.js",
-      "publicPath": "/4.87aa2c600c43345ba1c4.js"
+      "file": "4.3dbbd1ed205795f7485d.js",
+      "publicPath": "/docanary/4.3dbbd1ed205795f7485d.js"
     }
   ],
   "/Users/zisu/zspace/docanary/documentation/docs/installation.md": [
     {
-      "id": 37,
+      "id": 39,
       "name": "./docs/installation.md",
-      "file": "5.9d243f92792c529556ee.css",
-      "publicPath": "/5.9d243f92792c529556ee.css"
+      "file": "5.25125a41b0e5559a8bfd.css",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.css"
     },
     {
-      "id": 37,
+      "id": 39,
       "name": "./docs/installation.md",
-      "file": "5.9d243f92792c529556ee.js",
-      "publicPath": "/5.9d243f92792c529556ee.js"
+      "file": "5.25125a41b0e5559a8bfd.js",
+      "publicPath": "/docanary/5.25125a41b0e5559a8bfd.js"
     }
   ],
   "/Users/zisu/zspace/docanary/documentation/docs/siteconfig.md": [
     {
-      "id": 39,
+      "id": 38,
       "name": "./docs/siteconfig.md",
-      "file": "6.54851ce067b27fc046ff.css",
-      "publicPath": "/6.54851ce067b27fc046ff.css"
+      "file": "6.67a23e7cb61abe83fd60.css",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.css"
     },
     {
-      "id": 39,
+      "id": 38,
       "name": "./docs/siteconfig.md",
-      "file": "6.54851ce067b27fc046ff.js",
-      "publicPath": "/6.54851ce067b27fc046ff.js"
+      "file": "6.67a23e7cb61abe83fd60.js",
+      "publicPath": "/docanary/6.67a23e7cb61abe83fd60.js"
     }
   ],
   "/Users/zisu/zspace/docanary/documentation/docs/start.md": [
@@ -1300,13 +1300,13 @@
       "id": 40,
       "name": "./docs/start.md",
       "file": "7.9461e4966696d705fa62.css",
-      "publicPath": "/7.9461e4966696d705fa62.css"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.css"
     },
     {
       "id": 40,
       "name": "./docs/start.md",
       "file": "7.9461e4966696d705fa62.js",
-      "publicPath": "/7.9461e4966696d705fa62.js"
+      "publicPath": "/docanary/7.9461e4966696d705fa62.js"
     }
   ],
   "/Users/zisu/zspace/docanary/documentation/pages/home/index.md": [
@@ -1314,13 +1314,13 @@
       "id": 41,
       "name": "./pages/home/index.md",
       "file": "8.28e7d328835603c3cf7f.css",
-      "publicPath": "/8.28e7d328835603c3cf7f.css"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.css"
     },
     {
       "id": 41,
       "name": "./pages/home/index.md",
       "file": "8.28e7d328835603c3cf7f.js",
-      "publicPath": "/8.28e7d328835603c3cf7f.js"
+      "publicPath": "/docanary/8.28e7d328835603c3cf7f.js"
     }
   ]
 }
