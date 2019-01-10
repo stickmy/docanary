@@ -1,6 +1,6 @@
 {
   "name": "docanary",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Make documentation with markdown",
   "main": "index.js",
   "scripts": {
