@@ -6,6 +6,8 @@
 	--theme-color: #373277;
 	--text-color: #444;
 	--link-color: #0072be;
+	--code-bg-color: rgba(255,229,100,.2);
+	/* --code-bg-color: rgba(27,31,35,.05); */
 	--text-size: 16px;
 
 	/* internal */
