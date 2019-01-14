@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## Documentation
+## 📝 Documentation
 
 [简体中文](https://yubisaki.github.io)
 
