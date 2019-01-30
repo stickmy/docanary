@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="./art/reactdown.png" width="200px" />
   <h1 align="center" style="border-bottom: none">Docanary</h1>
   <p align="center">Site generator for easily maintaining docs</p>
 </p>
