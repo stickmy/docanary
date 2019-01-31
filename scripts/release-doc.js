@@ -3,8 +3,8 @@ const fs = require('fs-extra');
 const chalk = require('chalk');
 const spawn = require('child_process').spawn;
 
-const buildPath = path.resolve(process.cwd(), 'docs');
-const docsPath = path.resolve(process.cwd(), 'documentation');
+const buildPath = path.resolve(process.cwd(), 'site');
+const docsPath = path.resolve(process.cwd(), 'docs');
 
 function runCommand(cmd, args, options) {
 	return new Promise((resolve, reject) => {
