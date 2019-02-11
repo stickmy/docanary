@@ -1,0 +1,59 @@
+.loading-wrap
+	width 100%
+	height 60%
+	display flex
+	align-items center
+	justify-content center
+
+.loading
+	font-size 32px
+	width 32px
+	height 32px
+	position relative
+	display inline-block
+	transform rotate(45deg)
+	animation spinRotate 1.2s infinite linear
+	font-variant tabular-nums
+	font-feature-settings 'tnum'
+	line-height 1.5
+	list-style none
+	text-align center
+	color var(--theme-color)
+
+.loading i
+	width 14px
+	height 14px
+	border-radius 100%
+	background-color var(--theme-color)
+	transform scale(.75)
+	display block
+	position absolute
+	opacity .3
+	animation spinMove 1s infinite linear alternate
+	transform-origin 50% 50%
+	&:nth-child(1)
+		left 0
+		top 0
+	&:nth-child(2)
+		right 0
+		top 0
+		animation-delay .4s
+	&:nth-child(3)
+		right 0
+		bottom 0
+		animation-delay .8s
+	&:nth-child(4)
+		left 0
+		bottom 0
+		animation-delay 1.2
+
+@keyframes spinMove {
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes spinRotate {
+	100% {
+		transform: rotate(405deg);
+	}
+}
