@@ -18,7 +18,7 @@
 
 ## 📝 Documentation
 
-[简体中文](https://yubisaki.github.io)
+[简体中文](https://docanary.wuwaki.me)
 
 ## 📦 Installation
 
