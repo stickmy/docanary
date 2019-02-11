@@ -37,7 +37,7 @@ function copy() {
 }
 
 function start() {
-	runCommand('docanary', ['build'], {
+	runCommand('npx docanary', ['build'], {
 		cwd: docsPath,
 	}).then(() => {
 		clean();
