@@ -4,7 +4,7 @@ const chalk = require('chalk');
 const semver = require('semver');
 const path = require('path');
 const program = require('commander');
-const { start, build, init } = require('../lib');
+const { start, build, init, eject } = require('../lib');
 
 function commandWrap(fn) {
 	return (...args) =>
@@ -38,6 +38,13 @@ program
 	.description('Build site')
 	.action((siteDir = '.') => {
 		commandWrap(build)(path.resolve(siteDir), { skipImageCompression: false });
+	});
+
+program
+	.command('eject [siteDir]')
+	.description('copy the default theme into website folder for customization.')
+	.action((siteDir = '.') => {
+		commandWrap(eject)(path.resolve(siteDir));
 	});
 
 program.parse(process.argv);
