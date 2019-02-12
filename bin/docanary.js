@@ -4,7 +4,7 @@ const chalk = require('chalk');
 const semver = require('semver');
 const path = require('path');
 const program = require('commander');
-const { start, build, init, eject } = require('../lib');
+const { start, build, init, eject, copy } = require('../lib');
 
 function commandWrap(fn) {
 	return (...args) =>
@@ -47,4 +47,10 @@ program
 		commandWrap(eject)(path.resolve(siteDir));
 	});
 
+program
+	.command('copy [siteDir]')
+	.description('copy the custom theme into docanary folder for customization.')
+	.action((siteDir = '.') => {
+		commandWrap(copy)(path.resolve(siteDir));
+	});
 program.parse(process.argv);
