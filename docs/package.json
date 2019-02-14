@@ -1,7 +1,7 @@
 {
   "name": "docs",
   "dependencies": {
-    "docanary": "^0.0.8",
+    "docanary": "^0.0.14",
     "react": "16.7.0-alpha.0",
     "react-dom": "16.7.0-alpha.0"
   },

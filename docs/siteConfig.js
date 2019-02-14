@@ -16,4 +16,5 @@ module.exports = {
     { label: 'Documentation', link: '/docs' },
     { label: 'Github', href: 'https://github.com/bloss/docanary' }
   ],
+  experimental: true
 };
