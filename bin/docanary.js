@@ -29,6 +29,7 @@ program
 	.command('start [siteDir]')
 	.description('Start development server')
 	.option('-p, --port <port>', 'use specified port (default: 3000)')
+	.option('--debug')
 	.action((siteDir = '.', { port }) => {
 		commandWrap(start)(path.resolve(siteDir), { port });
 	});
@@ -36,6 +37,7 @@ program
 program
 	.command('build [siteDir]')
 	.description('Build site')
+	.option('--debug')
 	.action((siteDir = '.') => {
 		commandWrap(build)(path.resolve(siteDir), { skipImageCompression: false });
 	});
