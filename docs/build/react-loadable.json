@@ -71,6 +71,12 @@
       "name": "./components/AlphaTag/index.js",
       "file": "8.js",
       "publicPath": "/8.js"
+    },
+    {
+      "id": "./components/AlphaTag/index.js",
+      "name": "./components/AlphaTag/index.js",
+      "file": "9.js",
+      "publicPath": "/9.js"
     }
   ],
   "@site/components/TodoTag/index.js": [
@@ -121,6 +127,12 @@
       "name": "./components/TodoTag/index.js",
       "file": "8.js",
       "publicPath": "/8.js"
+    },
+    {
+      "id": "./components/TodoTag/index.js",
+      "name": "./components/TodoTag/index.js",
+      "file": "9.js",
+      "publicPath": "/9.js"
     }
   ],
   "@generated/componentsMap": [
@@ -171,6 +183,12 @@
       "name": "../lib/core/generated/componentsMap.js",
       "file": "8.js",
       "publicPath": "/8.js"
+    },
+    {
+      "id": "../lib/core/generated/componentsMap.js",
+      "name": "../lib/core/generated/componentsMap.js",
+      "file": "9.js",
+      "publicPath": "/9.js"
     }
   ],
   "@theme/Markdown": [
@@ -221,6 +239,12 @@
       "name": "../lib/theme/Markdown/index.js",
       "file": "8.js",
       "publicPath": "/8.js"
+    },
+    {
+      "id": "../lib/theme/Markdown/index.js",
+      "name": "../lib/theme/Markdown/index.js",
+      "file": "9.js",
+      "publicPath": "/9.js"
     }
   ],
   "/Users/zisu/zspace/docanary/docs/docs/add-doc.md": [
@@ -327,6 +351,18 @@
       "name": "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/stylus-loader/index.js?!./components/TodoTag/index.styl?module",
       "file": "8.js",
       "publicPath": "/8.js"
+    },
+    {
+      "id": "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/stylus-loader/index.js?!./components/AlphaTag/index.styl?module",
+      "name": "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/stylus-loader/index.js?!./components/AlphaTag/index.styl?module",
+      "file": "9.js",
+      "publicPath": "/9.js"
+    },
+    {
+      "id": "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/stylus-loader/index.js?!./components/TodoTag/index.styl?module",
+      "name": "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/stylus-loader/index.js?!./components/TodoTag/index.styl?module",
+      "file": "9.js",
+      "publicPath": "/9.js"
     }
   ],
   "./index.styl?module": [
@@ -427,6 +463,18 @@
       "publicPath": "/8.js"
     },
     {
+      "id": "./components/AlphaTag/index.styl?module",
+      "name": "./components/AlphaTag/index.styl?module",
+      "file": "9.js",
+      "publicPath": "/9.js"
+    },
+    {
+      "id": "./components/TodoTag/index.styl?module",
+      "name": "./components/TodoTag/index.styl?module",
+      "file": "9.js",
+      "publicPath": "/9.js"
+    },
+    {
       "id": "../lib/theme/Doc/index.styl?module",
       "name": "../lib/theme/Doc/index.styl?module",
       "file": "main.js",
@@ -479,44 +527,52 @@
       "publicPath": "/3.js"
     }
   ],
+  "/Users/zisu/zspace/docanary/docs/docs/eject.md": [
+    {
+      "id": "./docs/eject.md",
+      "name": "./docs/eject.md",
+      "file": "4.js",
+      "publicPath": "/4.js"
+    }
+  ],
   "/Users/zisu/zspace/docanary/docs/docs/installation.md": [
     {
       "id": "./docs/installation.md",
       "name": "./docs/installation.md",
-      "file": "4.js",
-      "publicPath": "/4.js"
+      "file": "5.js",
+      "publicPath": "/5.js"
     }
   ],
   "/Users/zisu/zspace/docanary/docs/docs/pages.md": [
     {
       "id": "./docs/pages.md",
       "name": "./docs/pages.md",
-      "file": "5.js",
-      "publicPath": "/5.js"
+      "file": "6.js",
+      "publicPath": "/6.js"
     }
   ],
   "/Users/zisu/zspace/docanary/docs/docs/siteconfig.md": [
     {
       "id": "./docs/siteconfig.md",
       "name": "./docs/siteconfig.md",
-      "file": "6.js",
-      "publicPath": "/6.js"
+      "file": "7.js",
+      "publicPath": "/7.js"
     }
   ],
   "/Users/zisu/zspace/docanary/docs/docs/start.md": [
     {
       "id": "./docs/start.md",
       "name": "./docs/start.md",
-      "file": "7.js",
-      "publicPath": "/7.js"
+      "file": "8.js",
+      "publicPath": "/8.js"
     }
   ],
   "/Users/zisu/zspace/docanary/docs/pages/home/index.md": [
     {
       "id": "./pages/home/index.md",
       "name": "./pages/home/index.md",
-      "file": "8.js",
-      "publicPath": "/8.js"
+      "file": "9.js",
+      "publicPath": "/9.js"
     }
   ],
   "undefined": [

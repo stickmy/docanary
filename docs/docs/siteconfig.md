@@ -20,6 +20,10 @@ date: 2019-01-10 00:12:27
 
 网站的 baseUrl, 一般来说是域名后面的路径, 比如 `bloss.github.io/docanary`, 那么 baseUrl 就是 `/docanary`, 如果你不想设置任何子路径, 请把它设置为 `/`.
 
+## experimental
+
+这个配置用来开启一些暂未稳定的实验性功能, 设置为 true 即可开启.
+
 ## docsUrl
 
 这个配置指定了你的文档子路径, 默认值为 `docs`, 比如设置为 `docs`, 那么你的文档路径就应该为 `baseUrl/docs`.
@@ -71,7 +75,11 @@ module.exports = {
 
 <AlphaTag>alpha</AlphaTag>
 
-这个目录下放着用户自定义的一些 React 组件, 默认值是 `components`. 没错, 他们可以在 markdown 文件中使用: 以 html tag 的方式引入, 不过不能是 `inline` 的方式. 它目前还不成熟, 有一些限制, 比如文件的组织结构只能为 `component/index.js` 这样的结构. 而且由于它们是用 `react-dom/server` 中的 `renderToString` 渲染出来的, 所以它们没法响应一些事件, 但是他们可以做一些样式的美化. 比如网站的首页完全可以用 React 组件来构造出更灵活的布局.
+::: tip TIP
+使用这个功能, 请设置 `experimental: true`.
+:::
+
+这个目录下放着用户自定义的一些 React 组件, 默认值是 `components`. 没错, 他们可以在 markdown 文件中使用: 以 html tag 的方式引入, 不过不能是 `inline` 的方式. 它目前还不成熟, 有一些限制, 比如文件的组织结构只能为 `component/index.js` 这样的结构. 而且由于它们是用 `react-dom/server` 中的 `renderToString` 渲染出来的, 所以它们没法响应一些事件(期待 PR), 但是他们可以做一些样式的美化. 比如网站的首页完全可以用 React 组件来构造出更灵活的布局.
 
 ## navbarLinks
 

@@ -94,6 +94,10 @@ export default {
 
 ## 在 markdown 文件中使用 React Component
 
+::: tip TIP
+请在 `siteConfig.js` 中设置 `experimental: true` 来开启该实验性功能.
+:::
+
 <AlphaTag>目前处于 alpha 阶段</AlphaTag>
 
 ```

@@ -43,3 +43,11 @@ docanary start
 ```bash
 docanary start -p 8000
 ```
+
+## debug
+
+```bash
+docanary start --debug
+```
+
+以 debug 参数启动命令, 会打印出一些 debug 信息, 便于调试.
