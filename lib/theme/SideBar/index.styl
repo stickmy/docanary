@@ -16,7 +16,6 @@
 	text-transform uppercase
 
 :global(.navbar)
-	overflow-y auto
 	max-height calc(100vh - 40px)
 
 :global(#navbar>ul)
@@ -37,6 +36,9 @@
 		border-color var(--theme-color)
 		font-weight bold
 		color var(--theme-color)!important
+
+:global(#sidebar::-webkit-scrollbar)
+	width 0 !important
 
 .nav
 	display block
