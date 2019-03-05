@@ -1,3 +1,5 @@
+$loading-w = 4px
+
 .loading-wrap
 	width 100%
 	height 60%
@@ -47,13 +49,54 @@
 		bottom 0
 		animation-delay 1.2
 
+.circle-loading
+	color #000
+	font-size 4px
+	margin 100px auto
+	width $loading-w
+	height $loading-w
+	border-radius 50%
+	position relative
+	text-indent -9999 * $loading-w
+	animation circleLoading 1.3s infinite linear
+	transform translateZ(0)
+
 @keyframes spinMove {
 	100% {
 		opacity: 1;
 	}
 }
+
 @keyframes spinRotate {
 	100% {
 		transform: rotate(405deg);
+	}
+}
+
+@keyframes circleLoading {
+	0%,
+	100% {
+		box-shadow: 0 -3 * $loading-w 0 0.2 * $loading-w, 2 * $loading-w -2 * $loading-w 0 0 * $loading-w, 3 * $loading-w 0 0 -1 * $loading-w, 2 * $loading-w 2 * $loading-w 0 -1 * $loading-w, 0 3 * $loading-w 0 -1 * $loading-w, -2 * $loading-w 2 * $loading-w 0 -1 * $loading-w, -3 * $loading-w 0 0 -1 * $loading-w, -2 * $loading-w -2 * $loading-w 0 0;
+	}
+	12.5% {
+		box-shadow: 0 -3 * $loading-w 0 0, 2 * $loading-w, -2 * $loading-w 0 0.2 * $loading-w, 3 * $loading-w 0 0 0, 2 * $loading-w 2 * $loading-w 0 -1 * $loading-w, 0 3 * $loading-w 0 -1 * $loading-w, -2 * $loading-w 2 * $loading-w 0 -1 * $loading-w, -3 * $loading-w 0 0 -1 * $loading-w, -2 * $loading-w -2 * $loading-w 0 -1 * $loading-w;
+	}
+	25% {
+		box-shadow: 0 -3 * $loading-w 0 -0.5 * $loading-w, 2 * $loading-w -2 * $loading-w 0 0, 3 * $loading-w 0 0 0.2 * $loading-w, 2 * $loading-w 2 * $loading-w 0 0, 0 3 * $loading-w 0 -1 * $loading-w, -2 * $loading-w 2 * $loading-w 0 -1 * $loading-w, -3 * $loading-w 0 0 -1 * $loading-w, -2 * $loading-w -2 * $loading-w 0 -1 * $loading-w;
+	}
+	37.5% {
+		box-shadow: 0 -3 * $loading-w 0 -1 * $loading-w, 2 * $loading-w -2 * $loading-w 0 -1 * $loading-w, 3 * $loading-w 0 * $loading-w 0 0, 2 * $loading-w 2 * $loading-w 0 0.2 * $loading-w, 0 3 * $loading-w 0 0 * $loading-w, -2 * $loading-w 2 * $loading-w 0 -1 * $loading-w, -3 * $loading-w 0 * $loading-w 0 -1 * $loading-w, -2 * $loading-w -2 * $loading-w 0 -1 * $loading-w;
+	}
+	50% {
+		box-shadow: 0 -3 * $loading-w 0 -1 * $loading-w, 2 * $loading-w -2 * $loading-w 0 -1 * $loading-w, 3 * $loading-w 0 0 -1 * $loading-w, 2 * $loading-w 2 * $loading-w 0 0 * $loading-w, 0 3 * $loading-w 0 0.2 * $loading-w, -2 * $loading-w 2 * $loading-w 0 0, -3 * $loading-w 0 * $loading-w 0 -1 * $loading-w, -2 * $loading-w -2 * $loading-w 0 -1 * $loading-w;
+	}
+	62.5% {
+		box-shadow: 0 -3 * $loading-w 0 -1 * $loading-w, 2 * $loading-w -2 * $loading-w 0 -1 * $loading-w, 3 * $loading-w 0 0 -1 * $loading-w, 2 * $loading-w 2 * $loading-w 0 -1 * $loading-w, 0 3 * $loading-w 0 0, -2 * $loading-w 2 * $loading-w 0 0.2 * $loading-w, -3 * $loading-w 0 0 0, -2 * $loading-w -2 * $loading-w 0 -1 * $loading-w;
+	}
+	75% {
+		box-shadow: 0 * $loading-w -3 * $loading-w 0 -1 * $loading-w, 2 * $loading-w -2 * $loading-w 0 -1 * $loading-w, 3 * $loading-w 0 * $loading-w 0 -1 * $loading-w, 2 * $loading-w 2 * $loading-w 0 -1 * $loading-w, 0 3 * $loading-w 0 -1 * $loading-w, -2 * $loading-w 2 * $loading-w 0 0, -3 * $loading-w 0 * $loading-w 0 0.2 * $loading-w, -2 * $loading-w -2 * $loading-w 0 0;
+	}
+	87.5% {
+		box-shadow: 0 * $loading-w -3 * $loading-w 0 0, 2 * $loading-w -2 * $loading-w 0 -1 * $loading-w, 3 * $loading-w 0 0 -1 * $loading-w, 2 * $loading-w 2 * $loading-w 0 -1 * $loading-w, 0 3 * $loading-w 0 -1 * $loading-w, -2 * $loading-w 2 * $loading-w 0 0, -3 * $loading-w 0 * $loading-w 0 0, -2 * $loading-w -2 * $loading-w 0 0.2 * $loading-w;
 	}
 }
