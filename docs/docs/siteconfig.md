@@ -69,6 +69,31 @@ module.exports = {
 }
 ```
 
+## theme
+
+另一个跟定义主题相关的配置就是 theme, 默认的 theme 是:
+
+```js
+{
+  version: '1.15.0',
+  theme: 'tomorrow'
+}
+```
+
+theme 的配置来源于 [prismjs](https://prismjs.com/), 可以在这里找到所有的 version 和 theme.
+
+你可以在 siteConfig.js 中定义自己的主题配置, 比如这样:
+
+```js
+module.exports = {
+	title: 'Docanary',
+	theme: {
+		version: 'version',
+		theme: 'your theme'
+	}
+}
+```
+
 ## docsDir
 
 这个配置指定了你的文档目录, 默认值是 `docs`, 你也可以设置为其他值, 比如叫做 `documentation`, 那么就会扫描 `documentation` 文件夹下的文档.
