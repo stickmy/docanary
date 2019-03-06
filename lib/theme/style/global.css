@@ -169,6 +169,8 @@ blockquote {
 	margin: 0;
 	margin-bottom: 16px;
 	padding: 0 1em;
+	border-left: 4px solid var(--theme-color);
+	font-style: italic;
 }
 
 blockquote> :first-child {
