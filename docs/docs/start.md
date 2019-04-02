@@ -6,7 +6,7 @@ date: 2018-01-10 00:10:22
 
 ## 项目结构
 
-你的项目结构应该是这样的, 具体每个文件夹的含义可以见 [siteConfig.js](https://yubisaki.github.io/docs/siteconfig)
+你的项目结构应该是这样的, 具体每个文件夹的含义可以见 [siteConfig.js](https://docanary.wuwaki.me/docs/siteconfig)
 
 ```
 .
