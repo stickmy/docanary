@@ -1,5 +1,7 @@
 .vscode
+.idea/
 .DS_Store
+*.iml
 node_modules
 docs/node_modules
 shrinkwrap.yaml
